@@ -45,7 +45,7 @@ public class Polisa {
     public double getSkladkaBazowa () {
         return skladkaBazowa;
     }
-    public int getPoziomRyzyka () { //getter Poziom ryzyka
+    public int getPoziomRyzyka () {
         return poziomRyzyka;
     }
     public double getWartoscPojazdu () {
